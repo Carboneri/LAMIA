@@ -1,0 +1,21 @@
+id;nome;email;telefone;data_cadastro;salario;departamento;cpf;endereco;status
+1;João Silva;joao.silva@empresa.com;(11) 98765-4321;2023-01-15;3500.00;Vendas;123.456.789-00;Rua A, 100 - São Paulo - SP;ativo
+2;Maria Santos;maria@empresa.com.br;(21) 99876-5432;15/01/2023;4200.50;TI;987.654.321-11;Avenida B, 200 - Rio de Janeiro - RJ;ativo
+3;Pedro Oliveira;pedro.oliveira@empresa.com;(31) 3333-4444;2023-01-15;NA;Vendas;456.789.123-22;Rua C 300;ativo
+4;Ana Costa;ana.costa@empresa.com.br;11987654321;01-15-2023;3800.00;RH;789.123.456-33;Avenida D, 400 - Belo Horizonte - MG;inativo
+5;Carlos Pereira;carlos@empresa;+55 11 98765-4321;2023/01/15;3900.00;TI;123.456.789-44;Rua E, 500 - Curitiba - PR;ativo
+6;Julia Mendes;julia.mendes@empresa.com.br;(41) 99999-8888;15-01-2023;NA;Vendas;NA;Avenida F, 600;ativo
+7;Lucas Ferreira;lucas.ferreira@empresa.com;(51) 98888-7777;2023-01-15;4100.00;TI;654.321.987-55;Rua G, 700 - Porto Alegre - RS;ativo
+8;Fernanda Rocha;fernanda@empresa.com.br;(61) 97777-6666;15/01/2023;3600.00;RH;321.654.987-66;Avenida H, 800;ativo
+9;Roberto Silva;roberto.silva@empresa.com;(71) 96666-5555;2023-01-15;NA;Vendas;456.789.123-77;Rua I, 900 - Salvador - BA;inativo
+10;Beatriz Alves;beatriz@empresa.com.br;85987654321;01/15/2023;3700.00;TI;789.123.456-88;Avenida J, 1000 - Fortaleza - CE;ativo
+11;Diego Martins;diego.martins@empresa.com;(85) 98765-4321;2023-01-15;4300.00;RH;NA;Rua K, 1100;ativo
+12;Camila Gomes;camila@empresa.com.br;(92) 99876-5432;15-01-2023;3500.00;Vendas;654.321.987-99;Avenida L, 1200 - Manaus - AM;ativo
+13;Rafael Costa;rafael.costa@empresa.com;(47) 98765-4321;2023/01/15;NA;TI;321.654.987-00;Rua M, 1300;inativo
+14;Sophia Ribeiro;sophia@empresa.com.br;6733333444;01-15-2023;3900.00;RH;123.456.789-11;Avenida N, 1400 - Brasília - DF;ativo
+15;Gustavo Almeida;gustavo.almeida@empresa.com;(62) 99999-8888;2023-01-15;4000.00;Vendas;987.654.321-22;Rua O, 1500;ativo
+16;Isabela Nunes;isabela@empresa.com.br;(83) 98765-4321;15/01/2023;NA;TI;456.789.123-33;Avenida P, 1600 - João Pessoa - PB;ativo
+17;Mateus Souza;mateus.souza@empresa.com;(84) 99876-5432;2023-01-15;3700.00;RH;NA;Rua Q, 1700;inativo
+18;Larissa Dias;larissa@empresa.com.br;(86) 98765-4321;01/15/2023;3800.00;Vendas;789.123.456-44;Avenida R, 1800 - Teresina - PI;ativo
+19;Vitor Cardoso;vitor.cardoso@empresa.com;(87) 99876-5432;2023/01/15;4100.00;TI;321.654.987-55;Rua S, 1900;ativo
+20;Natalia Ferreira;natalia@empresa.com.br;(88) 98765-4321;15-01-2023;NA;RH;654.321.987-66;Avenida T, 2000 - Aracaju - SE;ativo
