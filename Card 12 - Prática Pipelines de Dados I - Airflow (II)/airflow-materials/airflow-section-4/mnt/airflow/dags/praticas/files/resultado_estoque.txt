@@ -1,0 +1,6 @@
+teclado;899.00
+mouse;1137.50
+monitor;3250.00
+cadeira;2560.00
+mousepad;597.00
+TOTAL;8443.50

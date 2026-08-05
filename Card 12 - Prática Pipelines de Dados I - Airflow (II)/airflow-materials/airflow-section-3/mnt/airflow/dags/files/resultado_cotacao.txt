@@ -1,0 +1,9 @@
+cotacao de hoje (1 unidade de cada moeda em reais):
+  1 USD = R$5.10
+  1 EUR = R$5.87
+  1 GBP = R$6.84
+  1 JPY = R$0.03
+  1 ARS = R$0.00
+
+moeda mais cara hoje: GBP
+moeda mais barata hoje: ARS
